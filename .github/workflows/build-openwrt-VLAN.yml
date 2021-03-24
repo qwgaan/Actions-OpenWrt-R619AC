@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt Mod Version with VLAN
+name: Build Lienol with VLAN
 
 on:
   repository_dispatch:
